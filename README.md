@@ -26,5 +26,5 @@ Clone or download the Project and in your app/build.gradle file add a dependency
  
  <img src="https://i.imgur.com/nc8bzt4.png" alt="Start Up" width="380" height="704"> <img src="https://i.imgur.com/9nxlBGK.png" alt="Areas" width="380" height="704">
 
- <img src="https://i.imgur.com/6VIouiC.png" alt="alt text" width="380" height="704">
+ <img src="https://i.imgur.com/6VIouiC.png" alt="alt text" width="380" height="704"><img src="https://i.imgur.com/FCfzQIj.png" alt="alt text" width="380" height="704">
 
