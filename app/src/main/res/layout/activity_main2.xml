@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sabihashaik.trialcfb.Main2Activity"
+    tools:layout_editor_absoluteY="25dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <Button
+        android:id="@+id/Firebase_btnT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Token Number"
+
+        android:layout_marginBottom="56dp"
+        android:layout_alignBottom="@+id/viewbtnT"
+        android:layout_alignStart="@+id/viewbtnT"
+        android:layout_alignEnd="@+id/viewbtnT"/>
+
+    <Button
+        android:id="@+id/viewbtnT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Token Number"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="259dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/eID"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
+        android:hint="hint"/>
+
+    <Button
+        android:id="@+id/timebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/viewbtnT"
+        android:layout_alignStart="@+id/viewbtnT"
+        android:layout_below="@+id/Firebase_btnT"
+        android:layout_marginTop="15dp"
+        android:text="Select Time Slot"/>
+</RelativeLayout>
