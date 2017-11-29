@@ -18,9 +18,9 @@ Clone or download the Project and in your app/build.gradle file add a dependency
     * IT
 2. Token:
     * Get Virtual Token
-    * Select Time & Comments
-    * View Token number &Current Token on Call
-    * Revoke Token Taken
+    * Select Time & comments
+    * View Token number & current token on call
+    * Revoke Token taken
  
  ## Screenshots
  
