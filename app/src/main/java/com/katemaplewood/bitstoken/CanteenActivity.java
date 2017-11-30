@@ -130,7 +130,7 @@ public class CanteenActivity extends AppCompatActivity {
         list.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent innt = new Intent(CanteenActivity.this, tklist.class);
+                Intent innt = new Intent(CanteenActivity.this, tklistcn.class);
                 startActivity(innt);
             }
         });

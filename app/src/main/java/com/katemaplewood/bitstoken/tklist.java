@@ -18,7 +18,7 @@ public class tklist extends AppCompatActivity {
         w1=(WebView)findViewById(R.id.web);
 
         //Getting WebApp
-        w1.loadUrl("");
+        w1.loadUrl("https://paintedskies.github.io/bitstokenplus/accounts.html");
 
 
     }

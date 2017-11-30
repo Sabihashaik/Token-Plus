@@ -133,7 +133,7 @@ public class itactivity extends AppCompatActivity {
             list.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Intent innt = new Intent(itactivity.this, tklist.class);
+                    Intent innt = new Intent(itactivity.this, tklistit.class);
                     startActivity(innt);
                 }
             });
