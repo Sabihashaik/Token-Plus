@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         b1=(Button)findViewById(R.id.button);
-        b2=(Button)findViewById(R.id.Firebase_btnT);
+        b2=(Button)findViewById(R.id.Firebase_btnC);
         b3=(Button)findViewById(R.id.button3);
 
 

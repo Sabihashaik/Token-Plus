@@ -61,7 +61,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/head"/>
     <Button
-        android:id="@+id/Firebase_btnT"
+        android:id="@+id/Firebase_btnC"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="123dp"
         android:layout_height="62dp"

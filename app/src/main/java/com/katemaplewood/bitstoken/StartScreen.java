@@ -15,7 +15,7 @@ public class StartScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.startscreen);
 
-        mmain=(Button)findViewById(R.id.Firebase_btnT);
+        mmain=(Button)findViewById(R.id.Firebase_btnC);
         help=(Button)findViewById(R.id.help);
 
 

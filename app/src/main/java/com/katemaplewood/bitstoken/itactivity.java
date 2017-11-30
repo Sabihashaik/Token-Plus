@@ -85,12 +85,12 @@ public class itactivity extends AppCompatActivity {
             mDatabase.addChildEventListener(mChildEventListener);
 
 
-            gtoken = (Button) findViewById(R.id.Firebase_btnT);
-            ecomment = (EditText) findViewById(R.id.EcommentT);
-            vtoken = (Button) findViewById(R.id.viewbtnT);
-            list = (Button) findViewById(R.id.listT);
+            gtoken = (Button) findViewById(R.id.Firebase_btnC);
+            ecomment = (EditText) findViewById(R.id.EcommentC);
+            vtoken = (Button) findViewById(R.id.viewbtnC);
+            list = (Button) findViewById(R.id.listC);
             t1 = (TextView) findViewById(R.id.textView);
-            mTimePicker = (TimePicker) findViewById(R.id.TimeT);
+            mTimePicker = (TimePicker) findViewById(R.id.TimeC);
 
             //OnClick listener for Get Token
             gtoken.setOnClickListener(new View.OnClickListener() {

@@ -7,7 +7,7 @@
               android:layout_height="match_parent">
 
     <EditText
-        android:id="@+id/EcommentT"
+        android:id="@+id/EcommentC"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -24,7 +24,7 @@
 
 
     <Button
-        android:id="@+id/Firebase_btnT"
+        android:id="@+id/Firebase_btnC"
         android:layout_width="150dp"
         android:layout_height="56dp"
         android:layout_alignParentLeft="true"
@@ -37,13 +37,13 @@
         android:text="GET TOKEN"
         android:textColor="#ffffff"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/EcommentT"
+        app:layout_constraintTop_toBottomOf="@+id/EcommentC"
         android:layout_marginBottom="0dp"
-        app:layout_constraintBottom_toTopOf="@+id/listT"/>
+        app:layout_constraintBottom_toTopOf="@+id/listC"/>
 
     <Button
 
-        android:id="@+id/viewbtnT"
+        android:id="@+id/viewbtnC"
         android:layout_width="150dp"
         android:layout_height="56dp"
         android:layout_alignParentLeft="true"
@@ -57,11 +57,11 @@
         android:elevation="8dp"
         android:text="MY TOKEN"
         android:textColor="#ffffff"
-        app:layout_constraintBottom_toTopOf="@+id/listT"
+        app:layout_constraintBottom_toTopOf="@+id/listC"
         app:layout_constraintHorizontal_bias="0.512"
-        app:layout_constraintLeft_toRightOf="@+id/Firebase_btnT"
+        app:layout_constraintLeft_toRightOf="@+id/Firebase_btnC"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/EcommentT"
+        app:layout_constraintTop_toBottomOf="@+id/EcommentC"
         app:layout_constraintVertical_bias="0.444"/>
 
     <TextView
@@ -99,7 +99,7 @@
         app:layout_constraintTop_toBottomOf="@+id/Instruction"/>
 
     <TimePicker
-        android:id="@+id/TimeT"
+        android:id="@+id/TimeC"
         android:scaleX="0.6"
         android:scaleY="0.6"
         android:layout_width="wrap_content"
@@ -113,7 +113,7 @@
         app:layout_constraintRight_toRightOf="parent"/>
 
     <Button
-        android:id="@+id/listT"
+        android:id="@+id/listC"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
@@ -126,7 +126,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         android:layout_marginTop="64dp"
-        app:layout_constraintTop_toBottomOf="@+id/EcommentT"/>
+        app:layout_constraintTop_toBottomOf="@+id/EcommentC"/>
 
     <TextView
         android:id="@+id/textView7"
@@ -139,6 +139,6 @@
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/TimeT"/>
+        app:layout_constraintTop_toBottomOf="@+id/TimeC"/>
 
 </android.support.constraint.ConstraintLayout>
