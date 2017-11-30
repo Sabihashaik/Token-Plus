@@ -2,11 +2,12 @@
 A queue management system which lets students queue up virtually for specific time slots.
 
 ## Table of Contents: 
-1. [Installation](#Installation)
-2. [Features](#Features)
-3. [ScreenShots](#ScreenShots)
+1. [Installation](https://github.com/Sabihashaik/Token-Plus#installation)
+2. [Features](https://github.com/Sabihashaik/Token-Plus#features)
+3. [ScreenShots](https://github.com/Sabihashaik/Token-Plus#screenshots)
 
 ## Installation
+### Android Application
 Clone or download the Project and in your app/build.gradle file add a dependency for Firebase Realtime Database:
 
 `compile 'com.google.firebase:firebase-database:10.0.1'`
