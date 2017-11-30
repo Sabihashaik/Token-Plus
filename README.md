@@ -40,7 +40,7 @@ The web application is hosted on Github Pages and can be used here : https://pai
  <img src="https://i.imgur.com/6VIouiC.png" alt="alt text" width="380" height="704"> <img src="https://i.imgur.com/FCfzQIj.png" alt="alt text" width="380" height="704">
  
  ### Web Application
- <img src="https://imgur.com/XYrhfzZ.png" alt="Start Up" > 
- <img src="https://imgur.com/PteYn8X.png" alt="Admin Access" > 
- <img src="https://imgur.com/ohCj7ma.png" alt="Guest Access" > 
+ <img src="https://imgur.com/BKKB47j.png" alt="Start Up" > 
+ <img src="https://imgur.com/1eGLCFj.png" alt="Admin Access" > 
+ <img src="https://imgur.com/RPadVOM.png" alt="Guest Access" > 
 
