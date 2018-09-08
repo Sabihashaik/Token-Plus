@@ -1,10 +1,16 @@
 # Token-Plus
 A queue management system which lets students queue up virtually for specific time slots.
 
+Credits
+-------
+<b>Android Application</b>: [Sabiha Shaik](https://github.com/Sabihashaik)<br>
+<b>Web Application:</b> [Shruti Vinodh](https://github.com/paintedskies)
+
 ## Table of Contents: 
 1. [Installation](https://github.com/Sabihashaik/Token-Plus#installation)
 2. [Features](https://github.com/Sabihashaik/Token-Plus#features)
 3. [ScreenShots](https://github.com/Sabihashaik/Token-Plus#screenshots)
+
 
 ## Installation
 ### Android Application
